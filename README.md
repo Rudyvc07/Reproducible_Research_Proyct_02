@@ -69,3 +69,9 @@ NOTA : Si tiene problemas para conectarse con RPubs debido a problemas relaciona
 
 # Envío de su asignación
 Para enviar esta tarea, debe copiar la URL de RPubs de su documento de análisis de datos completado en la pregunta de evaluación por pares.
+
+
+
+EL ENLACE PARA VER LA PUBLICACION EN RPubs:
+
+https://rpubs.com/RudyVC/Reproducible_Research_Project_2
